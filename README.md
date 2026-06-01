@@ -33,13 +33,36 @@ This Sales Analysis Dashboard was developed in Microsoft Excel to transform raw 
 
 The dashboard incorporates interactive filters, allowing users to drill down into sales performance by category, customer segment, and month for deeper analysis.
 
-Through this project, I strengthened my skills in:
-📈 Data Visualization
-📊 Dashboard Design
-📋 Pivot Tables & Pivot Charts
-📌 Business Performance Analysis
-📉 Trend Analysis
-💡 Data Storytelling
-appreciated!
+📊 DIGITAL MARKETING ANALYSIS DASHBOARD | POWER BI PROJECT
+
+I'm excited to share my latest Power BI project: a Digital Marketing Analysis Dashboard designed to transform customer review and product data into actionable business insights.
+
+This dashboard provides a comprehensive overview of customer ratings, product categories, department performance, and division-level contributions, enabling stakeholders to identify trends and make informed decisions.
+
+🔍 Key Insights Highlighted:
+✅ Rating performance across departments
+✅ Customer engagement by clothing category
+✅ Distribution of products across divisions
+✅ Top-performing classes based on ratings
+✅ Department-wise product count analysis
+✅ Division contribution to overall ratings
+
+📈 Business Value:
+The analysis helps businesses understand customer preferences, evaluate product performance, identify high-performing categories, and improve marketing and merchandising strategies.
+
+🛠 Tools & Skills Applied:
+• Microsoft Power BI
+• Data Cleaning & Transformation
+• Data Modeling
+• DAX Measures
+• Interactive Dashboard Design
+• Data Visualization
+• Business Intelligence Reporting
+
+Every dashboard tells a story. This project demonstrates how data can be leveraged to uncover patterns, optimize decision-making, and create a more customer-centric business strategy.
+
+I am continuously building practical analytics projects to strengthen my expertise in Data Analytics, Business Intelligence, and Data Visualization.
+
+
 
 #DataAnalytics #DataAnalyst #ExcelDashboard #SalesAnalysis #BusinessIntelligence #DataVisualization #DashboardDesign #MicrosoftExcel #AnalyticsPortfolio #DataStorytelling #BusinessAnalytics #OpenToWork #DataDrivenDecisions #DataScience
